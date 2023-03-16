@@ -1,0 +1,32 @@
+
+ h1{
+    text-align: center;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(106, 89, 67);
+  }
+  
+  .container {
+    height: 250px;
+    width: 460px;
+    padding-block: 2cm;
+    background-color: rgb(234, 231, 209);
+    border-style: inset;
+    text-align: center;
+    
+  }
+
+  input{
+    width: 125px;
+    height: 39px;
+    border-radius: 10px;
+    border-color: rgb(163, 175, 175);
+  }
+
+  button {
+    width: 43px;
+    height: 43px;
+    font-size: large;
+    border-radius: 25px;
+    background-color: rgb(231, 199, 160);
+    border-color: rgb(180, 167, 122);
+  }
